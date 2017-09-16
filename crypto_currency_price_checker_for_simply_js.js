@@ -6,7 +6,7 @@
 
 var $modes = [
   {
-    "subtitle": "XVG MODE",
+    "subtitle": "Bittrex MODE",
     "body": "BTC: $bt_usdt_btc\nXVG: $bt_btc_xvg\nXRP $bt_btc_xrp\nETH: $bt_btc_eth\n"
   },
   {
