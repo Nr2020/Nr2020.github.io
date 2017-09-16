@@ -6,6 +6,10 @@
 
 var $modes = [
   {
+    "subtitle": "XVG MODE",
+    "body": "BTC: $bt_usdt_btc\nXVG: $bt_btc_xvg\nXRP $bt_btc_xrp\nETH: $bt_btc_eth\n"
+  },
+  {
     "subtitle": "XRP MODE",
     "body": "C: $cc_jpy_xrp\nC: $cc_btc_xrp\nB: $bt_btc_xrp\nP: $polo_btc_xrp"
   },
